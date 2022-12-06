@@ -6,3 +6,5 @@
 - Instagram: helgemo.media
 
 My website is: www.helgemomedia.no
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marenhelgemo&layout=compact)](https://github.com/marenhelgemo)
