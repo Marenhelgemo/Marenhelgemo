@@ -20,7 +20,7 @@ My website is: www.helgemomedia.no
 ## Github Statistics :chart_with_upwards_trend:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marenhelgemo&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marenhelgemo&layout=compact)](https://github.com/marenhelgemo) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marenhelgemo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What I like to work in & learn from :heart:
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
