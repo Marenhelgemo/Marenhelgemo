@@ -1,5 +1,5 @@
 ![HEADER!](img/githubheader.png)
-# 👋 Hi, I’m @Marenhelgemo
+# 👋 Hi, I’m Maren Helgemo! 
 - 👀 I thrive with design, content development and social media
 - 📫 marenhelgemo@hotmail.com
 - Instagram: helgemo.media
