@@ -1,5 +1,5 @@
 ![HEADER!](img/githubheader.png)
-![WordPress Theme Last Updated](https://img.shields.io/wordpress/theme/last-updated/twentyseventeen?color=purple)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/marenhelgemo/Marenhelgemo?color=purple&logo=github&style=plastic)
 # 👋 Hi, I’m Maren Helgemo! 
 - 👀 I thrive with design, content development and social media
 - 📫 marenhelgemo@hotmail.com
