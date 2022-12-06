@@ -36,3 +36,4 @@ My website is: www.helgemomedia.no
 ![BADGE!](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![BADGE!](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 ![BADGE!](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+(![Treehouse Badge](https://img.shields.io/badge/Treehouse-5FCF80?logo=treehouse&logoColor=fff&style=for-the-badge))
