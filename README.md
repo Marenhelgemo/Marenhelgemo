@@ -6,7 +6,7 @@
 
 My website is: www.helgemomedia.no
 
-:blossom: ## Currently learning
+## Currently learning :blossom:
 - Angular & TypeScript
 - Markdown to prettify my README-files
 - Design trends and how to use them in my own work
