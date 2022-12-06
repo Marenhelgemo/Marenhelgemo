@@ -8,5 +8,5 @@
 
 My website is: www.helgemomedia.no
 
-## H2 Github Statistics
+## Github Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marenhelgemo&layout=compact)](https://github.com/marenhelgemo)
