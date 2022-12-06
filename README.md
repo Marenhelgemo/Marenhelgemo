@@ -1,3 +1,4 @@
+![HEADER!](img/githubheader.png)
 - 👋 Hi, I’m @Marenhelgemo
 - 👀 I thrive with design, content development and social media
 - 🌱 I’m currently learning Angular & TypeScript
