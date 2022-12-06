@@ -8,7 +8,7 @@
 My website is: www.helgemomedia.no
 
 ## Currently learning :blossom:
-- ![BADGE!](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) & TypeScript
+- Angular & TypeScript
 - Markdown to prettify my README-files
 - Design trends and how to use them in my own work
 
