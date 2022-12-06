@@ -11,7 +11,7 @@ My website is: www.helgemomedia.no
 - Markdown to prettify my README-files
 - Design trends and how to use them in my own work
 
-## Currently working on
+## Currently working on :computer:
 - Creating content for my website: *such as blogposts*
 - Writing plans for my own business
 - Filling up my webshop with templates, presentations, etc
