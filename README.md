@@ -20,7 +20,7 @@ My website is: www.helgemomedia.no
 ## Github Statistics :chart_with_upwards_trend:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marenhelgemo&layout=compact)](https://github.com/marenhelgemo)
 
-## What I like to work in & learn from 
+## What I like to work in & learn from :heart:
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Adobe InDesign Badge](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -40,6 +40,7 @@ My website is: www.helgemomedia.no
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
+![BEM Badge](https://img.shields.io/badge/BEM-000?logo=bem&logoColor=fff&style=for-the-badge)
 ---
 ![Codecademy Badge](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![MDN Web Docs Badge](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
