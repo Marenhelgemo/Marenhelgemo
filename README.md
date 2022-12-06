@@ -19,3 +19,4 @@ My website is: www.helgemomedia.no
 
 ## Github Statistics :chart_with_upwards_trend:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marenhelgemo&layout=compact)](https://github.com/marenhelgemo)
+![BADGE!](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
