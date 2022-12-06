@@ -1,4 +1,5 @@
 ![HEADER!](img/githubheader.png)
+![WordPress Theme Last Updated](https://img.shields.io/wordpress/theme/last-updated/twentyseventeen?color=purple)
 # 👋 Hi, I’m Maren Helgemo! 
 - 👀 I thrive with design, content development and social media
 - 📫 marenhelgemo@hotmail.com
