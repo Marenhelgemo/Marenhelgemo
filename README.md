@@ -16,5 +16,5 @@ My website is: www.helgemomedia.no
 - Writing plans for my own business
 - Filling up my webshop with templates, presentations, etc
 
-## Github Statistics
+## Github Statistics :chart_with_upwards_trend:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marenhelgemo&layout=compact)](https://github.com/marenhelgemo)
